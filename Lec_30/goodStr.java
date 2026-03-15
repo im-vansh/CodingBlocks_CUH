@@ -24,7 +24,7 @@ public class goodStr {
     }
 }
 /*
- s = cbaeiciouacd
+ s = cbaeiciouacd  the length will be 4
   2nd idx we get a which is a vowel
      curr=1
      mx = 1;
